@@ -1,20 +1,36 @@
-# Contacts Project
+# Contacts App
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+## About
 
-Most of the commits in this repository correspond to videos in the program.
+The goal for the application was to allow users to view their contacts list, search contacts, and add new contacts to the list. This project emphasizes the basics of a React App.
 
-## Project Setup
+## Installation
 
-* clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
-* install the dependencies - `npm install`
+1. Clone the directory
+2. In the terminal, navigate to the root directory for this project
+3. Run ```npm install``` to install all dependencies
+4. Now that everything is set up, continue onto the section *How to run this program*
 
-## Contributing
+## How to run this program
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+Make sure all your dependencies are installed in your terminal or updated to the lasest version.
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+###### Start Sever
 
-## Contributing
+```cd``` into the **contacts-server** folder to start up the server by running ```node server.js```.
+
+###### Start App
+
+Then ```cd``` back into the project root directory and run ```npm start``` in order to start up the app.
+
+## Project Screenshots
+
+![Project Preview](/img/travel1.png)
+
+## Attributions
+
+This is a code along project from [Udacity's React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
+
+## License
 
 MIT
