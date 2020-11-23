@@ -25,7 +25,8 @@ Then ```cd``` back into the project root directory and run ```npm start``` in or
 
 ## Project Screenshots
 
-![Project Preview](/img/travel1.png)
+![Project Preview](/img/contactList.png)
+![Project Preview](/img/addContact.png)
 
 ## Attributions
 
