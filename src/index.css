@@ -132,6 +132,7 @@ body, .app {
   padding: 20px;
   background: white;
   display: flex;
+  align-items: center;
 }
 
 @media (min-width: 600px) {
@@ -173,7 +174,7 @@ body, .app {
 
 .contact-remove {
   padding-left: 20px;
-  align-self: center;
+  align-self: flex-end;
   width: 32px;
   height: 32px;
   background-color: transparent;
